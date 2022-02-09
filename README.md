@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chris-naibaf
-- I'm interested in learning about embedded systems, all about their hardware and software.
-- I'm currently learning digital electronics and C programming.
+- I'm interested in learning about frontend development.
+- I'm currently learning HTML, CSS and vanilla JS.
 - I'm looking to collaborate on: Anything!
 - 📫 How to reach me: chris.naibaf@gmail.com
