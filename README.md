@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chris-naibaf
-- I'm interested in learning about frontend development.
-- I'm currently learning HTML, CSS and vanilla JS.
+- I'm interested in learning about Back-end development.
+- I'm currently learning HTML, CSS, Bootstrap and Python.
 - I'm looking to collaborate on: Anything!
 - 📫 How to reach me: chris.naibaf@gmail.com
