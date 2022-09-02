@@ -2,7 +2,7 @@
 <h3 align="center">Back-end developer</h3>
 
 
-- 🔭 I’m currently working on a **Django poll app**
+- 🔭 I’m currently working on a **Django poll app** and a **Django blog app**
 
 - 🌱 I’m currently learning **Django, version control, databases**
 
