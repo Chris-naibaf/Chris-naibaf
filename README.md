@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Christopher Aguilar</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-naibaf&label=Profile%20views&color=0e75b6&style=flat" alt="chris-naibaf" /> </p>
 
