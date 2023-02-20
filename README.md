@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **APIs, Django and programming complexity**
 
-- 👯 I’m looking to collaborate as a **Fullstack, frontend or backend developer**
+- 👯 I’m looking to collaborate as a **Backend developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
