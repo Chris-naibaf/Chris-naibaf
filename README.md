@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Software engineering, data analisis, backend development and math!**
+- 🌱 I’m currently learning **Software engineering, different types of user authentication and fastAPI**
 
 - 👯 I’m looking to collaborate as a **Backend developer**
 
