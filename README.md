@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chris-naibaf&label=Profile%20views&color=0e75b6&style=flat" alt="chris-naibaf" /> </p>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on as a **backend developer** and in **personal projects**
 
-- 🌱 I’m currently learning **Software engineering, different types of user authentication and fastAPI**
+- 🌱 I’m currently learning **Software engineering, common backend tasks and fastAPI**
 
 - 👯 I’m looking to collaborate as a **Backend developer**
 
