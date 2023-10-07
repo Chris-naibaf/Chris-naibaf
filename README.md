@@ -1,13 +1,13 @@
 <h1 align="center">Hello World! I'm Christopher Aguilar</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Software engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chris-naibaf&label=Profile%20views&color=0e75b6&style=flat" alt="chris-naibaf" /> </p>
 
-- 🔭 I’m currently working on as a **backend developer** and in **personal projects**
+- 🔭 I’m currently working on as a **backend developer** in MB Innovation lab and as a **Software engineer** in **personal projects.**
 
-- 🌱 I’m currently learning **Software engineering, common backend tasks and fastAPI**
+- 🌱 I’m currently learning **Software architecture, DevOps and Python libraries.**
 
-- 👯 I’m looking to collaborate as a **Backend developer**
+- 👯 I’m looking to collaborate as a **Software engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
