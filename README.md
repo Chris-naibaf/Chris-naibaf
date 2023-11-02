@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chris-naibaf&label=Profile%20views&color=0e75b6&style=flat" alt="chris-naibaf" /> </p>
 
-- 🔭 I’m currently working on as a **backend developer** in MB Innovation lab and as a **Software engineer** in **personal projects.**
+- 🔭 I’m currently working on as a **AWS backend developer** in Ammper and as a **Software engineer** in **personal projects**.
 
-- 🌱 I’m currently learning **Software architecture, DevOps and Python libraries.**
+- 🌱 I’m currently learning the **Serverless framework, databases and services like lambda, API Gateway, RDS and SQS**.
 
 - 👯 I’m looking to collaborate as a **Software engineer**
 
