@@ -15,3 +15,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chris-naibaf&show_icons=true&locale=en&layout=compact" alt="chris-naibaf" /></p>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/677f538970129741a86cce5e?variant=dark&roadmaps=backend%2Caws" alt="roadmap.sh"/></a>
